@@ -15,11 +15,14 @@ The increase in city traffic is one of the significant effects of population gro
     </thead>
     <tbody>
         <tr>
-         <td><p> PHP </p><img style="vertical-align:middle" alt="PHP Programming" height"10%" width="20%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/php.svg" /></td>
+         <td><p> PHP </p><img style="vertical-align:middle" alt="PHP Programming" height"10%" width="20%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/php.svg" />
+         &emsp; 
+          <p> JavaScript </p><img style="vertical-align:middle" alt="Javascript" height"10%" width="20%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/javascript.svg" />
+         </td>
             <td><p> Visual Studio Code </p><img style="vertical-align:middle" alt="Visual Studio Code" height"30%" width="50%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/vscode.png" /></td>
         </tr>
           <tr>
-         <td><p> JavaScript </p><img style="vertical-align:middle" alt="Javascript" height"10%" width="20%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/javascript.svg" />
+         <td>
            </td>
             <td><p> Visual Studio Code </p><img style="vertical-align:middle" alt="Visual Studio Code" height"30%" width="50%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/vscode.png" /></td>
         </tr>
