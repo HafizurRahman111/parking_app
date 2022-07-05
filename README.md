@@ -18,7 +18,12 @@ The increase in city traffic is one of the significant effects of population gro
                     src="https://github.com/HafizurRahman111/parking_app/blob/main/github_contents_parking/images/javascript.svg" />
             </td>
             <td>
-                <p> MySQL </p><img style="vertical-align:middle" alt="MySQL" src="https://github.com/HafizurRahman111/parking_app/blob/main/github_contents_parking/images/mysql.svg" />
+                <p> MySQL </p><img style="vertical-align:middle" alt="MySQL"
+                    src="https://github.com/HafizurRahman111/parking_app/blob/main/github_contents_parking/images/mysql.svg" />
+            </td>
+            <td>
+                <p> JSON </p><img style="vertical-align:middle" alt="JSON"
+                    src="https://github.com/HafizurRahman111/parking_app/blob/main/github_contents_parking/images/json.svg" />
             </td>
         </tr>
         <tr>
