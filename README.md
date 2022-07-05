@@ -6,41 +6,35 @@ The increase in city traffic is one of the significant effects of population gro
 
 ### Technologies & Tools
  
- <table>
+  <table>
         <thead>
             <tr>
-                <td> Programming Language & Others</th>
+                <td> Programming Language & Others</td>
             </tr>
             <tr>
-                <td> Software & Tool </th>
+                <td> Software & Tool </td>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <th>
-                <td>
                     <p> PHP </p><img style="vertical-align:middle" alt="PHP"
                         src="https://github.com/HafizurRahman111/parking_app/blob/main/github_contents_parking/images/php.svg" />
-                </td>
                 </th>
                 <th>
-                <td>
                     <p> JavaScript </p><img style="vertical-align:middle" alt="Javascript"
                         src="https://github.com/HafizurRahman111/parking_app/blob/main/github_contents_parking/images/javascript.svg" />
-                </td>
                 </th>
                 <th>
-                <td>
                     <p> MySQL </p><img style="vertical-align:middle" alt="MySQL" src="https://github.com/HafizurRahman111/parking_app/blob/main/github_contents_parking/images/mysql.svg
                         " />
-                </td>
                 </th>
             </tr>
             <tr>
-                <td>
+                <th>
                     <p> Visual Studio Code </p><img style="vertical-align:middle" alt="Visual Studio Code"
                         src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/vscode.png" />
-                </td>
+                </th>
             </tr>
         </tbody>
     </table>
