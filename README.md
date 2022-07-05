@@ -18,6 +18,12 @@ The increase in city traffic is one of the significant effects of population gro
          <td><p> PHP </p><img style="vertical-align:middle" alt="PHP Programming" height"40%" width="40%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/php.svg" /></td>
             <td><p> Visual Studio Code </p><img style="vertical-align:middle" alt="Visual Studio Code" height"40%" width="40%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/vscode.png" /></td>
         </tr>
+        
+          <tr>
+         <td><p> JavaScript </p><img style="vertical-align:middle" alt="Javascript" height"40%" width="40%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/javascript.svg" /></td>
+            <td><p> Visual Studio Code </p><img style="vertical-align:middle" alt="Visual Studio Code" height"40%" width="40%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/vscode.png" /></td>
+        </tr>
+        
     </tbody>
 </table>
 
