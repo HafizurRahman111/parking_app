@@ -15,18 +15,19 @@ The increase in city traffic is one of the significant effects of population gro
     </thead>
     <tbody>
         <tr>
-         <td><p> PHP </p><img style="vertical-align:middle" alt="PHP Programming" height"5%" width="10%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/php.svg" />
+         <td><p> PHP </p><img style="vertical-align:middle" alt="PHP Programming" src="https://github.com/HafizurRahman111/parking_app/blob/main/github_contents_parking/images/php.svg" />
          </td>
             <td><p> Visual Studio Code </p><img style="vertical-align:middle" alt="Visual Studio Code" height"30%" width="50%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/vscode.png" /></td>
         </tr>
           <tr>
          <td>
-           <p> JavaScript </p><img style="vertical-align:middle" alt="Javascript" height"5%" width="10%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/javascript.svg" />
+           <p> JavaScript </p><img style="vertical-align:middle" alt="Javascript" src="https://github.com/HafizurRahman111/parking_app/blob/main/github_contents_parking/images/javascript.svg" />
            </td>
-            <td><p> Visual Studio Code </p><img style="vertical-align:middle" alt="Visual Studio Code" height"30%" width="50%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/vscode.png" /></td>
+            <td><p> Visual Studio Code </p><img style="vertical-align:middle" alt="Visual Studio Code" src="https://github.com/HafizurRahman111/parking_app/blob/main/github_contents_parking/images/vscode.png" /></td>
         </tr>
       <tr>
-         <td><p> MySQL </p><img style="vertical-align:middle" alt="MySQL" height"5%" width="10%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/mysql.svg" />
+         <td><p> MySQL </p><img style="vertical-align:middle" alt="MySQL" src="https://github.com/HafizurRahman111/parking_app/blob/main/github_contents_parking/images/mysql.svg
+" />
            </td>
             <td><p> Visual Studio Code </p><img style="vertical-align:middle" alt="Visual Studio Code" height"30%" width="50%" src="https://github.com/HafizurRahman111/HafizurRahman111/blob/main/images/vscode.png" /></td>
         </tr>
